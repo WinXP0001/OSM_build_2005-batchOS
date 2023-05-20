@@ -1,0 +1,2 @@
+cd .kernel
+bootx.bat
